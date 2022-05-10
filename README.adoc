@@ -1,0 +1,11 @@
+1= Aplicacion Arquitectura Hexagonal Refactorizacion
+
+== Como Correr la Aplicacion?
+
+```
+mvn spring-boot:run
+
+```
+
+
+
